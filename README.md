@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 A self taught developer.
+# 🔭 I’m currently working on this projects:
+- [animerf](https://github.com/raffyamoguis/animerf)
+- [game-marketplace](https://github.com/raffyamoguis/game-marketplace)
 # 💻 Tech Stack:
 ### **Languages**
 ![My Languages](https://skillicons.dev/icons?i=c,java,javascript,php,bash,powershell&theme=dark)
