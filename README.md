@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=raffyamoguis&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=raffyamoguis&data=repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 # 💫 About Me:
 A self taught developer.
