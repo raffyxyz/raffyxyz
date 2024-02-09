@@ -32,4 +32,10 @@ A self taught developer.
 ![My Platforms](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,wordpress&theme=dark)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raffyamoguis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://myreadme.vercel.app/api/embed/raffyamoguis?panels=toplanguages,commitgraph" alt="reimaginedreadme" />
+
+# Socials
+
+<a href="https://www.facebook.com/raffyxyz" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/raffyamoguis/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/playlist/0D3drQUJmAbZLJZnezwj3u?si=8bfca10f7bc2437b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
