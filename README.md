@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=raffyamoguis&data=repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=raffyxyz&data=repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 # 💫 About Me:
 A self taught developer.
@@ -32,7 +32,7 @@ A self taught developer.
 ![My Platforms](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,wordpress&theme=dark)
 
 # 📊 GitHub Stats:
-<img src="https://myreadme.vercel.app/api/embed/raffyamoguis?panels=toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/raffyxyz?panels=toplanguages,commitgraph" alt="reimaginedreadme" />
 
 # Socials
 
